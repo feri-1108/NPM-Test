@@ -1,0 +1,25 @@
+{
+  "name": "entrypoint",
+  "version": "1.0.0",
+  "description": "Modulo de Node y NPM",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maria bravo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feri-1108/NPM-Test.git"
+  },
+  "keywords": [
+    "pruebas",
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/feri-1108/NPM-Test/issues"
+  },
+  "homepage": "https://github.com/feri-1108/NPM-Test#readme"
+}
